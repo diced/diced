@@ -1,5 +1,5 @@
 ### Hi 👋
-I create web apps, discord bots, random things that have no use.
+I create web apps, discord bots, and random things that have no use.
 
 #### Things I use
 
