@@ -10,4 +10,5 @@ I create random stuff in rust, web apps, discord bots, and other random things t
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" height="20"> Node.js
 * <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="20"> React
 
-<figure><embed src="https://wakatime.com/share/@fbd0b047-cb01-4aaa-baca-6d862b608482/4b43a581-6428-4159-b054-ad043a2cdaa5.svg"></embed></figure>
+
+<img src="https://wakatime.com/share/@fbd0b047-cb01-4aaa-baca-6d862b608482/4b43a581-6428-4159-b054-ad043a2cdaa5.svg"/>
