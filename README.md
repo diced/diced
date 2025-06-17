@@ -5,9 +5,8 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-Python       1 hr 41 mins    █████████████░░░░░░░░░░░░   51.72 %
-TypeScript   1 hr 32 mins    ███████████▓░░░░░░░░░░░░░   47.23 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Python       1 hr 46 mins    ██████████████████░░░░░░░   72.48 %
+TypeScript   40 mins         ███████░░░░░░░░░░░░░░░░░░   27.52 %
 ```
 
 <!--END_SECTION:waka-->
