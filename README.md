@@ -5,8 +5,7 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-Other        45 mins         ████████████████████░░░░░   79.93 %
-TypeScript   11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+TypeScript   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
