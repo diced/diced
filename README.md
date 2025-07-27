@@ -5,7 +5,11 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   21 mins         █████████████████████████   100.00 %
+Nix          5 hrs 59 mins   ██████████████████████░░░   88.59 %
+TypeScript   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Bash         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
