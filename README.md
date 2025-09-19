@@ -7,8 +7,8 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-Git          10 mins         ██████████████▓░░░░░░░░░░   58.20 %
-TypeScript   7 mins          ██████████▒░░░░░░░░░░░░░░   41.80 %
+TypeScript   14 mins         ███████████████████▓░░░░░   78.26 %
+Bash         4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
 ```
 
 <!--END_SECTION:waka-->
