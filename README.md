@@ -7,11 +7,7 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-Python       49 mins         ██████████████▒░░░░░░░░░░   57.45 %
-TypeScript   22 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.75 %
-C            8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
-Git          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Nix          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
