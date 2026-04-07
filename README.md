@@ -7,11 +7,11 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       1 hr 57 mins          █████████▓░░░░░░░░░░░░░░░   38.08 %
-RGBDS Assembly   1 hr 14 mins          ██████░░░░░░░░░░░░░░░░░░░   24.16 %
-JavaScript       35 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-Nix              26 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Git              19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+TypeScript       5 hrs 27 mins         ████████████████░░░░░░░░░   63.61 %
+RGBDS Assembly   1 hr 14 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+JavaScript       36 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
+Nix              26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+gitignore        8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
