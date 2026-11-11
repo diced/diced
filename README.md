@@ -7,11 +7,11 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-Rust          6 hrs 28 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 %
-Unknown       4 hrs 10 mins         █████░░░░░░░░░░░░░░░░░░░░   19.95 %
-Typescript    3 hrs 28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-Markdown      1 hrs 18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-Typst         0 hrs 57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Rust          9 hrs 49 mins         ██████████▓░░░░░░░░░░░░░░   42.12 %
+Unknown       4 hrs 10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Typescript    2 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Markdown      1 hrs 24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Python        1 hrs 10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->
