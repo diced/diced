@@ -7,11 +7,11 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-Python        1 hrs 41 mins         ██████████░░░░░░░░░░░░░░░   39.56 %
-Typescript    1 hrs 35 mins         █████████▒░░░░░░░░░░░░░░░   37.23 %
-TSX           0 hrs 16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Javascript    0 hrs 13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Json          0 hrs 9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Python        1 hrs 41 mins         ██████████████████▓░░░░░░   74.83 %
+Json          0 hrs 8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Objective-c   0 hrs 7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Gitcommit     0 hrs 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+TSX           0 hrs 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
 ```
 
 <!--END_SECTION:waka-->
