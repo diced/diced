@@ -7,9 +7,11 @@ hi
 <!--START_SECTION:waka-->
 
 ```txt
-Nix        7 hrs 11 mins         █████████████████████████   99.81 %
-Markdown   0 hrs 1 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Unknown    0 hrs 0 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Nix          7 hrs 14 mins         █████████████░░░░░░░░░░░░   52.35 %
+Typescript   3 hrs 53 mins         ███████░░░░░░░░░░░░░░░░░░   28.07 %
+TSX          1 hrs 48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Go           0 hrs 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+Javascript   0 hrs 17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
